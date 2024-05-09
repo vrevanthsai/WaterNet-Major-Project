@@ -1,0 +1,45 @@
+Service Provider
+
+Login,
+Browse Water Data Sets and Train & Test, 
+View Trained and Tested Water Data Sets Accuracy in Bar Chart, 
+View Trained and Tested Water Data Sets Accuracy Results, 
+View Predicted Water Quality Detection Type, 
+Find Water Quality Detection Type Ratio, 
+Download Predicted Data Sets, 
+View Water Quality Detection Ratio Results, 
+View All Remote Users.
+
+
+
+Remote Users
+
+
+REGISTER AND LOGIN,
+PREDICT WATER QUALITY DETECTION TYPE,
+VIEW YOUR PROFILE. 
+
+
+Members
+
+RID,
+State,
+District_Name,
+Place_Name,
+ph,
+Hardness,
+Solids,
+Chloramines,
+Sulfate,
+Conductivity,
+Organic_carbon,
+Trihalomethanes,
+Turbidity,
+Prediction.
+
+
+
+
+
+
+

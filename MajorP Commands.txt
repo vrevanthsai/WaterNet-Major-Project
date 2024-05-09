@@ -1,0 +1,55 @@
+//steps for WaterNet Major Project
+-first:-
+- install XAMPP control panel
+- major project zip folder
+- python - 3.6.2 version
+
+-second:-
+-open XAMPP, for first time use steps,
+-Apache -> start
+-MySQL -> start and click admin -> import(button) -> choose file -> your major project inside -> .sql file(db file) -> Go -> import successfully
+
+-third:-
+-open major-proj folder -> goto manage.py file path -> cmd ->copy and paste all the below package commands(select all) at once
+
+pip install numpy
+pip install matplotlib==3.1.3
+pip install pandas
+pip install opencv-python==4.2.0.32
+pip install keras==2.3.1
+pip install tensorflow==1.14.0
+pip install h5py==2.10.0
+pip install scikit-learn==0.22.2.post1
+
+pip install protobuf==3.20.0
+
+pip install nltk
+pip install imutils
+
+pip install django==2.1.7
+
+pip install pymysql==0.9.3
+
+pip install matplotlib==3.1.3
+
+pip install keras==2.3.1
+
+pip install h5py==2.10.0
+
+pip install  --only-binary :all: mysqlclient
+
+pip install openpyxl
+pip install xlwt
+pip install wordcloud
+
+-fourth:- TO RUN PROJECT
+-after download complete then open XAMPP 
+-Apache -> start
+-MySQL -> start
+-go to same manage.py file path -> cmd -> type
+-python manage.py runserver
+-after some time(5min),project local host is shown in cmd and paste in chrome to see project
+-service provider -Admin logs - usesrname & pwd - Admin(same for both)
+-for user create/register and login
+
+

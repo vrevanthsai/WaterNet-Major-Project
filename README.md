@@ -1,2 +1,2 @@
 # WaterNet-Major-Project
-Major project of CMRIT college using Machine Learning
+Major project using Machine Learning
